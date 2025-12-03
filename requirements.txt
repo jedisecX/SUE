@@ -1,0 +1,5 @@
+llama-cpp-python
+feedparser
+PyPDF2
+rich
+requests
