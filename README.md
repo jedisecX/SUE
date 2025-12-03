@@ -3,7 +3,18 @@ Local Autonomous AI Assistant (llama.cpp Edition)
 
 by Jedi Security
 
+
+
 S.U.E. is a fully local, privacy-first autonomous AI system built to run on llama.cpp, with:
+
+cd ~
+unzip SUE_llama.zip -d SUE
+cd SUE
+
+Run the installer:
+chmod +x install.sh
+./install.sh
+
 
 Local LLM responses (GGUF models)
 
